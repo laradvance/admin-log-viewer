@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/log-viewer",
+    "name": "laradvance/admin-log-viewer",
     "description": "Log viewer for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "log", "viewer"],
-    "homepage": "https://github.com/laravel-admin-extensions/log-viewer",
+    "homepage": "https://github.com/laradvance/admin-log-viewer",
     "license": "MIT",
     "authors": [
         {
